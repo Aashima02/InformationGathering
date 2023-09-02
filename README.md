@@ -6,7 +6,7 @@ To perform information gathering techniques using kali linux
 
 1. Install kali linux either in partition or virtual box or in live mode
  
-2. Investigate on the various categories of tools as follows:
+2. Investigate on the various categories of tools as follows: 
 
 3. Open terminal/browser and try execute necessary commands/use url to perform information gathering
 

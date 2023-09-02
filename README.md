@@ -2,7 +2,7 @@
 ## AIM:
 To perform information gathering techniques using kali linux 
 
-## PROCEDRES:
+## PROCEDURE:
 
 1. Install kali linux either in partition or virtual box or in live mode
  
